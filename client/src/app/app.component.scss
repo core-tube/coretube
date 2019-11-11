@@ -52,13 +52,15 @@
         @include ellipsis;
 
         width: 100%;
+        font-family: 'Montserrat', sans-serif;
+        text-transform: uppercase;
       }
 
       .icon.icon-logo {
         display: inline-block;
         background: url('../assets/images/logo.svg') no-repeat;
-        width: 23px;
-        height: 24px;
+        width: 31px;
+        height: 25px;
       }
     }
 
