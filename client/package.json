@@ -109,7 +109,7 @@
     "purifycss-webpack": "^0.7.0",
     "raw-loader": "^1",
     "rxjs": "^6.5.2",
-    "sanitize-html": "^1.18.4",
+    "sanitize-html": "^2.3.2",
     "sass-loader": "^7.1.0",
     "sass-resources-loader": "^2.0.0",
     "socket.io-client": "^2.2.0",
