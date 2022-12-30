@@ -117,7 +117,7 @@
     "express-oauth-server": "^2.0.0",
     "express-rate-limit": "^4.0.4",
     "express-validator": "^6.1.1",
-    "flat": "^4.1.0",
+    "flat": "^5.0.1",
     "fluent-ffmpeg": "^2.1.0",
     "fs-extra": "^8.0.1",
     "helmet": "^3.12.1",
